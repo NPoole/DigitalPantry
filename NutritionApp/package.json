@@ -1,0 +1,7 @@
+{
+  "name": "NutritionApp",
+  "main": "index.html",
+  "window": {
+    "toolbar": true
+  }
+}
